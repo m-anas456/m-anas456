@@ -1,10 +1,10 @@
-#👋 Hey, I'm Muhammad Anas
+# 💫 About Me:
+👋 Hey, I'm Muhammad Anas
 
 💻 Full Stack Developer | React • Node.js • MongoDB • MySQL • Prisma
 🎓 Final-year BS Computer Science Student (NED University)
 🚀 Passionate about building scalable web apps, AI systems, and real-world solutions"
 
-# 💫 About Me:
 I'm a results-driven Full Stack Developer focused on building impactful, production-ready applications. I enjoy turning complex problems into simple, scalable solutions using modern web technologies.<br><br>🔭 Currently working on advanced full-stack & AI-integrated projects<br>🌱 Learning on MERN Stack development and Gen AI <br>🧠 Strong interest in Full Stack Development and scalable web systems<br>🎯 Goal: Secure a high-impact job in a product-based company
 
 
