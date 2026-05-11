@@ -1,14 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=40&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+My+Profile;Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing SVG" /></a>
+  <h1>👋 Welcome to My Profile</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667eea&center=true&width=600&lines=Hi!+I'm+Muhammad+Anas;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps" alt="Typing animation" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20Quality-★★★★★-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-★★★★★-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-★★★★★-orange?style=flat-square" />
-</div>
-
----
 
 # 💫 About Me:
 
@@ -39,9 +32,6 @@ I'm a results-driven Full Stack Developer focused on building impactful, product
 ![](https://github-readme-stats.shion.dev/api?username=m-anas456&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=m-anas456&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-anas456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/m-anas456/m-anas456/blob/output/github-contribution-grid-snake.svg)
 
 ## � GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m-anas456&theme=radical&no-frame=true&no-bg=true&margin-w=4)
