@@ -109,30 +109,7 @@ const anas = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://www.linkedin.com/in/anas-zia-rehman-289397407  
-  **3. Bottom Connect Section (Lines 200-204):**
-  ```markdown
-  [![LinkedIn](...)](#)](https://linkedin.com/in/YOUR_LINKEDIN)
-                                             ↑ Replace YOUR_LINKEDIN
-  
-  [![Email](...)](#)](mailto:YOUR_EMAIL@gmail.com)
-                             ↑ Replace YOUR_EMAIL
-  
-  [![Portfolio](...)](#)](https://YOUR_PORTFOLIO.dev)
-                                    ↑ Replace YOUR_PORTFOLIO.dev" target="_blank">
-    ↑ Replace YOUR_LINKEDIN with your LinkedIn username
-    
-  <a href="mailto:anno786is@gmail.com">
-    ↑ Replace YOUR_EMAIL@gmail.com with your actual email
-    
-  <a href="https://mhdanas.tech" target="_blank">
-    ↑ Replace YOUR_PORTFOLIO.dev with your portfolio URL
-    
-  <a href="https://github.com/m-anas456" target="_blank">
-    ✓ Already updated
-</p>as456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
@@ -168,10 +145,6 @@ const anas = {
 </a>
 
 </div>
-
-<br/>
-
-> 💡 **Note:** Add more pinned repos from your GitHub profile settings for maximum impact.
 
 ---
 
