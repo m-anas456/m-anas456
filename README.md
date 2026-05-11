@@ -1,5 +1,6 @@
 <div align="center">
-    # Muhammad Anas
+
+#  MUHAMMAD ANAS 
   
   **Full Stack Developer** | Building Scalable UI | REST API Integration | React Native
   
