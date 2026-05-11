@@ -1,20 +1,20 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&weight=700&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+My+Profile;🚀+Full+Stack+Developer;💡+MERN+Specialist;🌟+Building+the+Future" alt="Typing SVG" />
+  # Anas Zia Rehman
   
-  <!-- Animated Subtitle Badges -->
+  **Full Stack Developer** | Building Scalable UI | REST API Integration | React Native
+  
   <br/>
-  <img src="https://img.shields.io/badge/Code%20Quality-★★★★★-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-★★★★★-blue?style=flat-square&logo=lightbulb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-★★★★★-orange?style=flat-square&logo=rocket&logoColor=white" />
   
-  <br/><br/>
-  
-  <!-- Wave Divider SVG -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3" />
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-zia-rehman-289397407)
+  [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anno786is@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhdanas.tech)
+  [![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-resume-link.com)
+  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-anas456)
   
 </div>
+
+---
 
 ---
 
@@ -32,18 +32,6 @@ I'm a results-driven developer focused on building **impactful, production-ready
 - 🌱 Learning **MERN Stack** development and **Generative AI**
 - 🧠 Deep interest in **Full Stack Development** and **scalable systems**
 - 🎯 Goal: Secure a **high-impact role** in a product-focused company
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-zia-rehman-289397407)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-anas456)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mhdanas.tech)
-  
-</div>
 
 ---
 
@@ -79,14 +67,14 @@ I'm a results-driven developer focused on building **impactful, production-ready
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&count_private=true" alt="Streak Stats" />
   
 </div>
 
 <div align="center">
   
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anas456&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anas456&theme=tokyonight&layout=compact&count_private=true" alt="Top Languages" />
   
 </div>
 
