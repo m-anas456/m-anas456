@@ -12,13 +12,13 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/anas-zia-rehman-289397407" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:anno786is@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.dev" target="_blank">
+  <a href="https://mhdanas.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/m-anas456" target="_blank">
@@ -109,7 +109,30 @@ const anas = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://www.linkedin.com/in/anas-zia-rehman-289397407  
+  **3. Bottom Connect Section (Lines 200-204):**
+  ```markdown
+  [![LinkedIn](...)](#)](https://linkedin.com/in/YOUR_LINKEDIN)
+                                             ↑ Replace YOUR_LINKEDIN
+  
+  [![Email](...)](#)](mailto:YOUR_EMAIL@gmail.com)
+                             ↑ Replace YOUR_EMAIL
+  
+  [![Portfolio](...)](#)](https://YOUR_PORTFOLIO.dev)
+                                    ↑ Replace YOUR_PORTFOLIO.dev" target="_blank">
+    ↑ Replace YOUR_LINKEDIN with your LinkedIn username
+    
+  <a href="mailto:anno786is@gmail.com">
+    ↑ Replace YOUR_EMAIL@gmail.com with your actual email
+    
+  <a href="https://mhdanas.tech" target="_blank">
+    ↑ Replace YOUR_PORTFOLIO.dev with your portfolio URL
+    
+  <a href="https://github.com/m-anas456" target="_blank">
+    ✓ Already updated
+</p>as456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
@@ -134,18 +157,21 @@ const anas = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+<a href="https://github.com/m-anas456/Ayasc-Platform">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=m-anas456&repo=Ayasc-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+<a href="https://github.com/m-anas456/LEADS-TRACKER--CHROME-EXTENSION-">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=m-anas456&repo=LEADS-TRACKER--CHROME-EXTENSION-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/shehzadres/Real_Time_Vehicle_Anomaly_Detection_System">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=shehzadres&repo=Real_Time_Vehicle_Anomaly_Detection_System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
 </a>
 
 </div>
 
 <br/>
 
-> 💡 **Note:** Replace `PROJECT_1` and `PROJECT_2` above with your actual repo names, and add more pinned repos from your GitHub profile settings for maximum impact.
+> 💡 **Note:** Add more pinned repos from your GitHub profile settings for maximum impact.
 
 ---
 
@@ -166,7 +192,7 @@ const anas = {
 🤖  Building AI-integrated web applications using LLMs & OpenAI
 🌐  Exploring Next.js App Router, server actions & edge computing
 🛡️  REST API security, JWT auth, and scalable DB design with Prisma
-🎓  Final-year project: [Your capstone project description here]
+🎓  Final-year project: Building AI-powered full-stack solutions and system design
 ```
 
 ---
@@ -209,9 +235,9 @@ If you're building something exciting — let's talk.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-zia-rehman-289397407)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anno786is@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://mhdanas.tech)
 
 </div>
 
