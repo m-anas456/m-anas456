@@ -1,5 +1,19 @@
+<div align="center">
+  <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: wave 3s ease-in-out infinite;">
+    👋 Welcome to My Profile
+  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667eea&center=true&width=600&lines=Hi!+I'm+Muhammad+Anas;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps" alt="Typing animation" />
+</div>
+
+<style>
+  @keyframes wave {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
+
 # 💫 About Me:
-👋 Hey, I'm Muhammad Anas
 
 💻 Full Stack Developer | React • Node.js • MongoDB • MySQL • Prisma
 🎓 Final-year BS Computer Science Student (NED University)
