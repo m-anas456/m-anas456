@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+My+Profile;🚀+Full+Stack+Developer;💡+MERN+Specialist;🌟+Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&weight=700&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Welcome+to+My+Profile;🚀+Full+Stack+Developer;💡+MERN+Specialist;🌟+Building+the+Future" alt="Typing SVG" />
   
   <!-- Animated Subtitle Badges -->
   <br/>
@@ -79,14 +79,14 @@ I'm a results-driven developer focused on building **impactful, production-ready
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-anas456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas456&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   
 </div>
 
 <div align="center">
   
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anas456&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anas456&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   
 </div>
 
