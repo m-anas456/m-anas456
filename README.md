@@ -1,6 +1,5 @@
 <div align="center">
-  
-  # Anas Zia Rehman
+
   
   **Full Stack Developer** | Building Scalable UI | REST API Integration | React Native
   
